@@ -21,6 +21,7 @@ public class LinePreparing {
         return getLineWithoutLetters(getLineReplaceDouble(getLineReplaceCommas(getLineWithoutSpaces(line))));
     }
 
+
     /**
      * метод, возвращающий пришедшую строку без пробелов
      *

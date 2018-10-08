@@ -26,6 +26,7 @@ public class LineOperation {
         return lineConcat;
     }
 
+
     /**
      * 1. Записывает в строку line результат работы метода LinePreparing.getLinePreparing
      * 2. если метод LineCheck.getLineChek вернул true  выполнит пункт 3,если нет ,вернет строку

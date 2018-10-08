@@ -7,6 +7,7 @@ import edu.java.solution.lines.LineParsing;
  */
 public class Multiplication {
 
+
     /**
      * Выясняет, какой тип данных находится в строке, int или double.
      * Для вычислений использует перегруженный метод getMultiplication.

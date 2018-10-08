@@ -28,6 +28,7 @@ public class LineCheck {
         return line.contains("(") || line.contains(")") ? getCommasCount(line) : false;
     }
 
+
     /**
      * метод, определяющий, содержит ли строка равное количество открывающих или закрывающих скобок
      *

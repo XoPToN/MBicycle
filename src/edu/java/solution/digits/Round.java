@@ -13,6 +13,7 @@ public class Round {
      */
     private static final int SCALE_SIZE = 2;
 
+
     /**
      * Возвращает число с округлением.
      *
